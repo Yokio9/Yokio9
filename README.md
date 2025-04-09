@@ -1,4 +1,7 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hello%2C%20I%27m%20Dianka&fontAlign=left&fontAlignY=40&color=gradient&colors=#9b00ff,#00ff00)
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Hello%2C%20I%27m%20Dianka&fontAlign=center&fontAlignY=40&color=gradient&colors=#9b00ff,#00ff00" alt="Header" />
+</div>
+
 
 <div align="center">
     
