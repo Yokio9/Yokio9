@@ -4,10 +4,12 @@
 
 
 <div align="center">
-    
-### 🚀 Passionate about IT<br>
-### 🎓 42 Lausanne School student<br>
-### 💻 Currently working on Minishell<br>
+  
+## About me    
+### 🤖 Passionate about IT<br>
+### 🧠 42 Lausanne School student<br>
+### 💻 Currently working on 42 Minishell<br>
+### 🎓 Master’s graduate in International Affairs<br>
 
 </div>
 <br>
@@ -64,18 +66,18 @@
 <br/><br/>
 
 <details>
-<summary><h3> 🌍Languages </h3></summary>
+<summary><h2>🌍 Languages</h2></summary>
 
-🇬🇧 English  
-🇫🇷 French  
-🇨🇩 Lingala  
-🇨🇳 Mandarin  
-🇰🇷 Korean  
+### 🇬🇧 English  
+### 🇫🇷 French  
+### 🇨🇩 Lingala  
+### 🇨🇳 Mandarin  
+### 🇰🇷 Korean  
 
 </details>
 
 <details closed>
-<summary><h3>📊 Github Stats ✅</h3></summary>
+<summary><h2>📊 Github Stats</h2></summary>
   <div align="center">
     <!-- Most Used Languages -->
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yokio9&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
