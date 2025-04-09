@@ -44,7 +44,7 @@
 </div>
 <br>
 
-## Cursus at 42 Lausanne School
+## What I've been working on
 
 <div align="center" style="
     display: grid;
