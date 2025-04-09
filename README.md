@@ -2,14 +2,14 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Hello%2C%20I%27m%20Dianka&fontAlign=center&fontAlignY=40&color=gradient&colors=#9b00ff,#00ff00" alt="Header" />
 </div>
 
-
 <div align="center">
     
-🚀 Passionate about IT<br>
-🎓 42 Lausanne School student<br>
-💻 Currently working on Minishell<br>
+### 🚀 Passionate about IT<br>
+### 🎓 42 Lausanne School student<br>
+### 💻 Currently working on Minishell<br>
 
 </div>
+<br>
 
 <div align="center">
 
@@ -21,9 +21,13 @@
 <a href="https://www.linkedin.com/in/dianka-matayi-b4b413209" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo">
 </a>
+<br>
 
 <div align="center">
-  <h2>Technologies & Tools</h3>
+  <br>
+  
+## Technologies & Tools
+  
   <br>
   <p>
     <img src="https://skillicons.dev/icons?i=apple,debian,kali,linux,ubuntu,windows" alt="Operating Systems">
@@ -35,15 +39,17 @@
     <img src="https://skillicons.dev/icons?i=c,cpp" alt="Software Development">
   </p>
 </div>
+<br>
 
-## 🌎 Languages
-🇬🇧 English  
-🇫🇷 French  
-🇨🇩 Lingala  
-🇨🇳 Mandarin  
-🇰🇷 Korean  
+## Languages
+### 🇬🇧 English  
+### 🇫🇷 French  
+### 🇨🇩 Lingala  
+### 🇨🇳 Mandarin  
+### 🇰🇷 Korean  
+<br>
 
-## 💻 Cursus at 42 Lausanne School
+## Cursus at 42 Lausanne School
 
 <div align="center" style="
     display: grid;
