@@ -3,6 +3,32 @@
 </div>
 
 <div align="center">
+
+## About Me & Languages
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <h3>About Me</h3>
+      🚀 Passionate about IT <br>
+      🎓 42 Lausanne School student <br>
+      💻 Currently working on Minishell
+    </td>
+    <td align="center" width="50%">
+      <h3>Languages</h3>
+      🇬🇧 English <br>
+      🇫🇷 French <br>
+      🇨🇩 Lingala <br>
+      🇨🇳 Mandarin <br>
+      🇰🇷 Korean
+    </td>
+  </tr>
+</table>
+
+</div>
+
+
+<div align="center">
     
 ### 🚀 Passionate about IT<br>
 ### 🎓 42 Lausanne School student<br>
