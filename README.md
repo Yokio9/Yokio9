@@ -6,24 +6,21 @@
 
 ## About Me & Languages
 
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <h3>About Me</h3>
-      🚀 Passionate about IT <br>
-      🎓 42 Lausanne School student <br>
-      💻 Currently working on Minishell
-    </td>
-    <td align="center" width="50%">
-      <h3>Languages</h3>
-      🇬🇧 English <br>
-      🇫🇷 French <br>
-      🇨🇩 Lingala <br>
-      🇨🇳 Mandarin <br>
-      🇰🇷 Korean
-    </td>
-  </tr>
-</table>
+## About Me
+
+🚀 Passionate about IT  
+🎓 42 Lausanne School student  
+💻 Currently working on Minishell  
+
+---
+
+## Languages
+
+🇬🇧 English  
+🇫🇷 French  
+🇨🇩 Lingala  
+🇨🇳 Mandarin  
+🇰🇷 Korean  
 
 </div>
 
