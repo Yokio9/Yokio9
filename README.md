@@ -69,6 +69,17 @@
     <img src="https://github.com/IsaiahRobinsonGit/images/blob/main/hackathons.png" width="330" height="186" style="border-radius: 10px;" />
 </div>
 
+<details>
+<summary><h3>🌐 Languages I speak</h3></summary>
+
+🇬🇧 English  
+🇫🇷 French  
+🇨🇩 Lingala  
+🇨🇳 Mandarin  
+🇰🇷 Korean  
+
+</details>
+
 <br/><br/> <!-- Adds extra space to separate sections -->
 
 <details closed>
