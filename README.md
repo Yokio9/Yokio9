@@ -69,6 +69,8 @@
     <img src="https://github.com/IsaiahRobinsonGit/images/blob/main/hackathons.png" width="330" height="186" style="border-radius: 10px;" />
 </div>
 
+<br/><br/>
+
 <details>
 <summary><h3>🌐 Languages I speak</h3></summary>
 
@@ -79,8 +81,6 @@
 🇰🇷 Korean  
 
 </details>
-
-<br/><br/> <!-- Adds extra space to separate sections -->
 
 <details closed>
 <summary><h3>📊 Github Stats ✅</h3></summary>
