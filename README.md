@@ -2,20 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Hello%2C%20I%27m%20Dianka&fontAlign=center&fontAlignY=40&color=gradient&colors=#9b00ff,#00ff00" alt="Header" />
 </div>
 
-<div align="center">
-
-## About Me & Languages
-
-<div align="center">
-
-| About Me | Languages |
-|---------|-----------|
-| 🚀 Passionate about IT <br> 🎓 42 Lausanne School student <br> 💻 Currently working on Minishell | 🇬🇧 English <br> 🇫🇷 French <br> 🇨🇩 Lingala <br> 🇨🇳 Mandarin <br> 🇰🇷 Korean |
-
-</div>
-
-</div>
-
 
 <div align="center">
     
