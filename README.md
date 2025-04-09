@@ -42,14 +42,6 @@
 </div>
 <br>
 
-## Languages
-### 🇬🇧 English  
-### 🇫🇷 French  
-### 🇨🇩 Lingala  
-### 🇨🇳 Mandarin  
-### 🇰🇷 Korean  
-<br>
-
 ## Cursus at 42 Lausanne School
 
 <div align="center" style="
@@ -72,7 +64,7 @@
 <br/><br/>
 
 <details>
-<summary><h3>🌐 Languages I speak</h3></summary>
+<summary><h3> 🌍Languages </h3></summary>
 
 🇬🇧 English  
 🇫🇷 French  
