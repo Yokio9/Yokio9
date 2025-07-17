@@ -8,7 +8,7 @@
 ## About me    
 ### 🤖 Passionate about IT<br>
 ### 🧠 42 Lausanne School student<br>
-### 💻 Currently working on 42 Minishell<br>
+### 💻 Currently working on Cub3D<br>
 ### 🎓 Master’s graduate in International Affairs<br>
 
 </div>
