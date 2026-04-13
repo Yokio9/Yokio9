@@ -7,8 +7,8 @@
   
 ## About me    
 ### 🤖 Passionate about IT<br>
-### 🧠 42 Lausanne School student<br>
-### 💻 Currently working on Cub3D<br>
+### 🧠 Graduated from 42 Lausanne School in March 2026<br>
+### 💻 Currently learning swift to develop IOS applications<br>
 ### 🎓 Master’s graduate in International Affairs<br>
 
 </div>
