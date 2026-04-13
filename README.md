@@ -28,16 +28,14 @@
 <br>
 
 <div align="center">
-  <br>
+<br>
   
 ## Technologies & Tools
-  
-<div align="center">
-  <h2>Technologies & Tools</h2>
   <p>
     <img src="https://skillicons.dev/icons?i=c,cpp,js,ts,html,css,swift,nodejs,react,nextjs,tailwind,vercel,firebase,docker,powershell,linux,ubuntu,debian,windows,apple,figma,vscode,vim,git,github&perline=5" alt="My Tech Stack" />
   </p>
 </div>
+<br>
 
 ## What I've been working on
 
