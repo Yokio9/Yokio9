@@ -68,19 +68,3 @@
 ### 🇰🇷 Korean  
 
 </details>
-
-<details closed>
-<summary><h2>📊 Github Stats</h2></summary>
-  <div align="center">
-    <!-- Most Used Languages -->
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yokio9&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
-  </div>
-  <div align="center">
-    <!-- Smaller Stats Section -->
-    <div style="max-width: 400px; margin: 20px auto; font-size: 12px;">
-      <img src="https://github-readme-stats.vercel.app/api?username=yokio9&theme=transparent&hide_border=false&include_all_commits=true&count_private=true"/>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=yokio9&theme=transparent&hide_border=false"/>
-    </div>
-  </div>
-  <img alt="yokio9 Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=yokio9&bg_color=RRGGBBAA&title_color=00abf0&color=00abf0&line=00abf0&point=DEDEDE&hide_border=true&custom_title=Contribution⠀Graph" />
-</details>
