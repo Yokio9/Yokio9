@@ -10,6 +10,7 @@
 ### 🧠 Graduated from 42 Lausanne School in March 2026<br>
 ### 💻 Currently learning Swift to develop IOS applications<br>
 ### 🎓 Master’s graduate in International Affairs<br>
+### 🗣️ Always eager to collaborate - Feel free to connect<br>
 
 </div>
 <br>
@@ -31,18 +32,12 @@
   
 ## Technologies & Tools
   
-  <br>
+<div align="center">
+  <h2>Technologies & Tools</h2>
   <p>
-    <img src="https://skillicons.dev/icons?i=apple,debian,kali,linux,ubuntu,windows" alt="Operating Systems">
-    <img src="https://skillicons.dev/icons?i=vscode,vim,bash" alt="Tools">
-  </p>
-  <p>
-    <img src="https://skillicons.dev/icons?i=git,github" alt="Technologies">
-    <img src="https://skillicons.dev/icons?i=html,css" alt="Web Development">
-    <img src="https://skillicons.dev/icons?i=c,cpp" alt="Software Development">
+    <img src="https://skillicons.dev/icons?i=c,cpp,js,ts,html,css,swift,nodejs,react,nextjs,tailwind,vercel,firebase,docker,powershell,linux,ubuntu,debian,windows,apple,figma,vscode,vim,git,github&perline=5" alt="My Tech Stack" />
   </p>
 </div>
-<br>
 
 ## What I've been working on
 
