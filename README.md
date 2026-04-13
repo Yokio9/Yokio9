@@ -49,11 +49,6 @@
     <img src="https://github.com/Yokio9/Yokio9/blob/main/images/5.jpg" width="330" height="186" style="border-radius: 10px;" />
 <!-- Custom Projects -->
     <img src="https://github.com/Yokio9/Yokio9/blob/main/images/6.jpg" width="330" height="186" style="border-radius: 10px;" />
-        <br>
-<!-- Certificates -->
-    <img src="https://github.com/Yokio9/Yokio9/blob/main/images/7.jpg" width="330" height="186" style="border-radius: 10px;" />
-<!-- Hackathons -->
-    <img src="https://github.com/Yokio9/Yokio9/blob/main/images/8.jpg" width="330" height="186" style="border-radius: 10px;" />
 </div>
 
 <br/><br/>
