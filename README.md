@@ -10,7 +10,7 @@
 ### 🧠 Graduated from 42 Lausanne School in March 2026<br>
 ### 💻 Currently learning Swift to develop IOS applications<br>
 ### 🎓 Master’s graduate in International Affairs<br>
-### 💼 Currently looking for a 4-6 month internship<br>
+### 💼 Looking for a 4-6 month internship<br>
 
 </div>
 <br>
