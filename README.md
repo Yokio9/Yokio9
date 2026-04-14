@@ -32,7 +32,7 @@
   
 ## Technologies & Tools
   <p>
-    <img src="https://skillicons.dev/icons?i=c,cpp,js,ts,html,css,swift,nodejs,react,nextjs,tailwind,vercel,firebase,docker,powershell,linux,ubuntu,debian,windows,apple,figma,vscode,vim,git,github&perline=5" alt="My Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,js,ts,html,css,kotlin,nodejs,react,nextjs,tailwind,vercel,firebase,docker,powershell,linux,ubuntu,debian,windows,apple,figma,vscode,vim,git,github&perline=5" alt="My Tech Stack" />
   </p>
 </div>
 <br>
