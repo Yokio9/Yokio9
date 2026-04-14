@@ -6,7 +6,7 @@ These are the projects I worked on as part of the 42 Lausanne common core curric
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/Yokio9/libft"><b>libft</b></a><br>
-      <sub>A custom C library containinf a collection of useful standard functions.</sub><br>
+      <sub>A custom C library containing a collection of useful standard functions.</sub><br>
       <br>⚫ <code>C</code>
     </td>
     <td width="50%" valign="top">
