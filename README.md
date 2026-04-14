@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Hello%2C%20I%27m%20Dianka&fontAlign=center&fontAlignY=40&color=gradient&colors=#9b00ff,#00ff00" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=007acc&height=100&text=Hello%2C%20I'm%20Dianka&fontAlign=center&fontAlignY=50" alt="Header" />
 </div>
 
 
@@ -39,20 +39,13 @@
 
 ## What I've been working on
 
-<div align="center" style="
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(330px, 1fr));
-    gap: 20px;
-    justify-items: center;
-">
-    <!-- 42 Projects -->
-    <a href="./42%20projects/README.md">
-      <img src="https://github.com/Yokio9/Yokio9/blob/main/images/5.jpg" width="330" height="186" style="border-radius: 10px;" />
-    </a>
-<!-- Personal Projects -->
-    <a href="./Personal%20projects/README.md">
-      <img src="https://github.com/Yokio9/Yokio9/blob/main/images/6.jpg" width="330" height="186" style="border-radius: 10px;" />
-    </a>
+<div align="center">
+  <a href="./42%20projects/README.md">
+    <img src="https://github.com/Yokio9/Yokio9/blob/main/images/5.jpg?raw=true" width="300" style="border-radius: 10px; margin: 10px;" />
+  </a>
+  <a href="./Personal%20projects/README.md">
+    <img src="https://github.com/Yokio9/Yokio9/blob/main/images/6.jpg?raw=true" width="300" style="border-radius: 10px; margin: 10px;" />
+  </a>
 </div>
 
 <br/><br/>
