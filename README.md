@@ -46,7 +46,7 @@
     justify-items: center;
 ">
     <!-- 42 Projects -->
-    <a href="./projects/README.md">
+    <a href="./42%20projects/README.md">
       <img src="https://github.com/Yokio9/Yokio9/blob/main/images/5.jpg" width="330" height="186" style="border-radius: 10px;" />
     </a>
 <!-- Custom Projects -->
