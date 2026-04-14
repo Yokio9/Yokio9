@@ -49,8 +49,10 @@
     <a href="./42%20projects/README.md">
       <img src="https://github.com/Yokio9/Yokio9/blob/main/images/5.jpg" width="330" height="186" style="border-radius: 10px;" />
     </a>
-<!-- Custom Projects -->
-    <img src="https://github.com/Yokio9/Yokio9/blob/main/images/6.jpg" width="330" height="186" style="border-radius: 10px;" />
+<!-- Personal Projects -->
+    <a href="./Personal%20projects/README.md">
+      <img src="https://github.com/Yokio9/Yokio9/blob/main/images/6.jpg" width="330" height="186" style="border-radius: 10px;" />
+    </a>
 </div>
 
 <br/><br/>
