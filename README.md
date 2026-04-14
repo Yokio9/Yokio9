@@ -6,7 +6,7 @@
 <div align="center">
   
 ## About me    
-### 🤖 Passionate about IT<br>
+### 🤖 Software engineer<br>
 ### 🧠 Graduated from 42 Lausanne School in March 2026<br>
 ### 💻 Currently learning Swift to develop IOS applications<br>
 ### 🎓 Master’s graduate in International Affairs<br>
