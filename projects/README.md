@@ -1,4 +1,6 @@
-# My Projects
+# 42 projects
+
+These are the projects I worked on as part of the 42 Lausanne common core curriculum.
 
 Click any project below:
 
