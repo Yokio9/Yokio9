@@ -17,7 +17,7 @@ Click any project below:
     </tr>
     <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/Yokio9/Todo-list"><b>ToDo console application</b></a><br>
+      <a href="https://github.com/Yokio9/Todo-list"><b>ToDo List</b></a><br>
       <sub>A simple C# console app to add, view, and remove daily tasks from a ToDo list.</sub><br>
       <br>🟢 <code>C#</code>
     </td>
