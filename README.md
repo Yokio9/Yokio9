@@ -9,7 +9,7 @@
 ### 🤖 Software engineer<br>
 ### 💼 Looking for a 4-6 month IT internship<br>
 ### 🧠 Graduated from 42 Lausanne School in March 2026<br>
-### 💻 Currently learning Swift to develop IOS applications<br>
+### 💻 Currently learning C#<br>
 ### 🎓 Master’s graduate in International Affairs<br>
 
 </div>
@@ -32,7 +32,7 @@
   
 ## Technologies & Tools
   <p>
-    <img src="https://skillicons.dev/icons?i=c,cpp,js,ts,html,css,kotlin,nodejs,react,nextjs,tailwind,vercel,firebase,docker,powershell,linux,ubuntu,debian,windows,apple,figma,vscode,vim,git,github&perline=5" alt="My Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,js,ts,html,css,nodejs,react,nextjs,tailwind,vercel,firebase,docker,powershell,linux,ubuntu,debian,windows,apple,figma,vscode,vim,git,github&perline=5" alt="My Tech Stack" />
   </p>
 </div>
 <br>
