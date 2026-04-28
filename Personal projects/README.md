@@ -14,5 +14,12 @@ Click any project below:
       <sub>A professional website built for our Junior Entreprise to showcase services and manage client engagements.</sub><br>
       <br>🔵 <code>TypeScript</code>
     </td>
+    </tr>
+    <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Yokio9/Todo-list"><b>TODO console application</b></a><br>
+      <sub>A simple C# console app to add, view, and remove daily tasks from a TODO list.</sub><br>
+      <br>🟢 <code>C#</code>
+    </td>
   </tr>
 </table>
